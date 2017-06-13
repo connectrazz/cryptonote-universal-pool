@@ -1,6 +1,6 @@
 {
-    "coin": "ducknote",
-    "symbol": "XDN",
+    "coin": "everestcoin",
+    "symbol": "EVT",
     "coinUnits": 100000000,
     "coinDifficultyTarget": 240,
 
@@ -105,12 +105,12 @@
 
     "daemon": {
         "host": "127.0.0.1",
-        "port": 42081
+        "port": 27010
     },
 
     "wallet": {
         "host": "127.0.0.1",
-        "port": 8082
+        "port": 27013
     },
 
     "redis": {
